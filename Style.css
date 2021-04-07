@@ -1,0 +1,28 @@
+html{
+    background-color: lavender;
+    color: mediumvioletred;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 600px;
+    box-shadow: 5px 10px 8px #888888;
+    position: relative;
+    left: 300px;
+    border:1px solid black;
+    margin: 10px;
+}
+
+.offersLeft{
+    float: left;
+}
+
+p{
+    text-align: end;
+    font-size: x-large;
+}
